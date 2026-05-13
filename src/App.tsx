@@ -1,4 +1,4 @@
-const pillarPhoto = '/src/assets/pillar-hero.jpeg'
+import pillarPhoto from './assets/pillar-hero.jpeg'
 
 const whatsappLink = 'https://wa.me/5522981190713?text=Olá,%20gostaria%20de%20agendar%20uma%20sessão.'
 
