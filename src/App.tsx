@@ -46,7 +46,7 @@ function App() {
           <p className="eyebrow">Psicoterapia online</p>
           <h1>Cuidando da sua saúde emocional com acolhimento e profissionalismo.</h1>
           <p className="subtitle">
-            Psicoterapia online para adultos e idosos, com abordagem em Terapia Cognitivo-Comportamental (TCC).
+            Psicoterapia online para adolescentes, adultos e idosos, com abordagem em Terapia Cognitivo-Comportamental (TCC).
             Pós-graduada em Terapia Cognitivo-Comportamental (TCC), Psicologia e desenvolvimento infantil,
             e Neurociências e comportamento.
           </p>
